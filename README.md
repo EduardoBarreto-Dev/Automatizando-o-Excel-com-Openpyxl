@@ -34,6 +34,7 @@ Este projeto demonstra competências em:
 
 - Python 3.7+
 - Biblioteca `openpyxl`
+- IDE `Visual Studio Code` (de preferência)
 
 ### Instalação
 
